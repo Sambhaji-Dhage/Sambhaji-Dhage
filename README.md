@@ -25,9 +25,6 @@ Hello! My name is Sambhaji Dhage. I am passionate about using data to drive insi
 
 
 
-<a href="https://www.instagram.com/___dumma___/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40">
-</a>
 
 
 
