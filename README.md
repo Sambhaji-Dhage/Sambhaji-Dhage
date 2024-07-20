@@ -9,8 +9,6 @@
 <h3 align="center">A passionate Data Analyst / Business Analyst📊</h3>
 
 
-# 💫 About Me:
-Hello! My name is Sambhaji Dhage. I am passionate about using data to drive insights and decision-making. I have a strong background in specific areas of expertise, such as statistical analysis, data visualization(Power BI, Tableau) and Reporting, SQL querying, Excel, Python(Pandas, NumPy, SciPy, MatPlotLib), Data Modelling etc.
 
 
 - 📄 Welcome to My **PortFolio**
