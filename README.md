@@ -6,7 +6,7 @@
 </h1>
 
 
-<h3 align="center">Data Analyst / Business Analyst</h3>
+<h3 align="center">A passionate Data Analyst / Business Analyst📊</h3>
 
 
 # 💫 About Me:
