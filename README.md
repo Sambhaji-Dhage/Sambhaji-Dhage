@@ -18,10 +18,10 @@
   
   Let's turn data into insights! 🚀
 
-<h3 align="left">🔗 Connect on LinkedIn:</h3>
+<h3 align="left">🌐 Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sambhaji-dhage">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30">
 </a>
 
 
@@ -29,7 +29,7 @@
 
 
 
-<h3 align="left">🧰 Languages and Tools:</h3>
+<h3 align="left">💻 Tech Stack:</h3>
 
 ![MySQL](https://img.shields.io/badge/MySql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![MICROSOFT POWER BI](https://img.shields.io/badge/Power_BI-f3f110?style=plastic&logo=POWERBI&logoColor=0c0c0c) ![MICROSOFT EXCEL](https://img.shields.io/badge/MS_Excel-5be830?style=plastic&logo=excelI&logoColor=0c0c0c) ![TABLEAU](https://img.shields.io/badge/TABLEAU-ffffff?style=plastic&logo=TABLEAUI&logoColor=0c0c0c) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 
